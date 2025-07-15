@@ -6,7 +6,6 @@
 - ⚙️ Framework: React.js, Next.js, Vue.js (cơ bản)
 - 🎨 Thiết kế: Tailwind CSS, Bootstrap, Figma (cắt giao diện)
 - 🛠️ Công cụ: Git, VSCode, Chrome DevTools, npm, yarn, pnpm
-- 🌐 Khả năng responsive và tối ưu UI/UX cho nhiều thiết bị
 
 ---
 
