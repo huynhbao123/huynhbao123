@@ -1,15 +1,15 @@
-# 👋 Xin chào! Tôi là Bao – Frontend Developer
+👋 Hello! I'm Bao – Frontend Developer
 
-## 🚀 Kỹ năng 
+## 🚀 Skills
 
-- 💻 Ngôn ngữ: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- 💻 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - ⚙️ Framework: React.js, Next.js, Vue.js (cơ bản)
-- 🎨 Thiết kế: Tailwind CSS, Bootstrap, Figma (cắt giao diện)
-- 🛠️ Công cụ: Git, VSCode, Chrome DevTools, npm, yarn, pnpm
+- 🎨 Design: Tailwind CSS, Bootstrap, Figma (cắt giao diện)
+- 🛠️ Tools: Git, VSCode, Chrome DevTools, npm, yarn, pnpm
 
 ---
 
-## 📫 Kết nối
+## 📫 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bao.huynh.276909)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/baohuynh123)  
